@@ -1,0 +1,34 @@
+_repo: Hore-d-din---A-jin--pov-dky_27960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Omelka, František
+    aliases:
+    - Omelka, Frantisek
+    - Omelka, F.
+    birthdate: 1904
+    deathdate: 1960
+    gutenberg_agent_id: '31795'
+    url: http://www.gutenberg.org/2009/agents/31795
+    wikipedia: http://eo.wikipedia.org/wiki/Franti%C5%A1ek_Omelka
+description: ''
+gutenberg_issued: '2009-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27960'
+language: cs
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Short stories, Czech'
+- !lcsh 'Czech fiction'
+- !lcc 'PZ'
+- !lcc 'PG'
+tableOfContents: Had -- U stromečku -- Na ledě -- Hore dědinú -- Šlahačka -- Koníček
+  -- Hlídač -- Tonečkova noc.
+title: 'Hore dědinú: A jiné povídky'
+url: http://www.gutenberg.org/ebooks/27960
